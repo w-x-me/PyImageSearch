@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='cars/image_0001.jpg'>
+    <box top='77' left='35' width='196' height='56'/>
+  </image>
+  <image file='cars/image_0002.jpg'>
+    <box top='73' left='53' width='176' height='54'/>
+  </image>
+  <image file='cars/image_0003.jpg'>
+    <box top='63' left='66' width='160' height='57'/>
+  </image>
+  <image file='cars/image_0004.jpg'>
+    <box top='63' left='46' width='178' height='53'/>
+  </image>
+  <image file='cars/image_0005.jpg'>
+    <box top='66' left='66' width='189' height='57'/>
+  </image>
+  <image file='cars/image_0006.jpg'>
+    <box top='71' left='60' width='174' height='59'/>
+  </image>
+  <image file='cars/image_0007.jpg'>
+    <box top='70' left='46' width='188' height='58'/>
+  </image>
+  <image file='cars/image_0008.jpg'>
+    <box top='67' left='62' width='186' height='61'/>
+  </image>
+  <image file='cars/image_0009.jpg'>
+    <box top='80' left='50' width='172' height='59'/>
+  </image>
+  <image file='cars/image_0010.jpg'>
+    <box top='67' left='84' width='190' height='59'/>
+  </image>
+  <image file='cars/image_0011.jpg'>
+    <box top='75' left='54' width='184' height='59'/>
+  </image>
+  <image file='cars/image_0012.jpg'>
+    <box top='101' left='69' width='185' height='59'/>
+  </image>
+  <image file='cars/image_0013.jpg'>
+    <box top='96' left='61' width='174' height='56'/>
+  </image>
+  <image file='cars/image_0014.jpg'>
+    <box top='85' left='42' width='197' height='66'/>
+  </image>
+  <image file='cars/image_0015.jpg'>
+    <box top='81' left='89' width='175' height='61'/>
+  </image>
+  <image file='cars/image_0016.jpg'>
+    <box top='87' left='54' width='180' height='54'/>
+  </image>
+  <image file='cars/image_0017.jpg'>
+    <box top='86' left='81' width='184' height='55'/>
+  </image>
+  <image file='cars/image_0018.jpg'>
+    <box top='76' left='74' width='169' height='56'/>
+  </image>
+  <image file='cars/image_0019.jpg'>
+    <box top='73' left='63' width='192' height='56'/>
+  </image>
+  <image file='cars/image_0020.jpg'>
+    <box top='97' left='72' width='179' height='55'/>
+  </image>
+  <image file='cars/image_0021.jpg'>
+    <box top='78' left='75' width='172' height='65'/>
+  </image>
+  <image file='cars/image_0022.jpg'>
+    <box top='85' left='88' width='183' height='68'/>
+  </image>
+  <image file='cars/image_0023.jpg'>
+    <box top='86' left='56' width='172' height='61'/>
+  </image>
+  <image file='cars/image_0024.jpg'>
+  </image>
+  <image file='cars/image_0025.jpg'>
+    <box top='91' left='42' width='201' height='53'/>
+  </image>
+  <image file='cars/image_0026.jpg'>
+    <box top='80' left='97' width='163' height='61'/>
+  </image>
+  <image file='cars/image_0027.jpg'>
+    <box top='97' left='76' width='170' height='59'/>
+  </image>
+  <image file='cars/image_0028.jpg'>
+    <box top='96' left='43' width='197' height='65'/>
+  </image>
+  <image file='cars/image_0029.jpg'>
+    <box top='83' left='46' width='187' height='67'/>
+  </image>
+  <image file='cars/image_0030.jpg'>
+    <box top='77' left='80' width='197' height='58'/>
+  </image>
+  <image file='cars/image_0031.jpg'>
+    <box top='54' left='62' width='176' height='57'/>
+  </image>
+  <image file='cars/image_0032.jpg'>
+    <box top='49' left='74' width='176' height='55'/>
+  </image>
+  <image file='cars/image_0033.jpg'>
+    <box top='81' left='47' width='197' height='65'/>
+  </image>
+  <image file='cars/image_0034.jpg'>
+    <box top='59' left='89' width='169' height='51'/>
+  </image>
+  <image file='cars/image_0035.jpg'>
+    <box top='65' left='76' width='170' height='60'/>
+  </image>
+  <image file='cars/image_0036.jpg'>
+    <box top='92' left='46' width='177' height='63'/>
+  </image>
+  <image file='cars/image_0037.jpg'>
+    <box top='67' left='97' width='167' height='60'/>
+  </image>
+  <image file='cars/image_0038.jpg'>
+    <box top='72' left='98' width='173' height='53'/>
+  </image>
+  <image file='cars/image_0039.jpg'>
+    <box top='56' left='107' width='159' height='72'/>
+  </image>
+  <image file='cars/image_0040.jpg'>
+    <box top='75' left='63' width='170' height='54'/>
+  </image>
+</images>
+</dataset>

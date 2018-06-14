@@ -1,0 +1,11 @@
+获取hog特征向量
+python extract_features.py --conf conf/cars.json 
+
+获取SVN线性值
+python train_model.py  -  - conf conf/cars.json
+
+测试对象检测器
+python test_model_no_nms.py --conf conf/cars.json --image datasets/caltech101/101_ObjectCategories/car_side/image_0004.jpg
+
+抑止最大值
+python test_model.py --conf conf/cars.json --image datasets/caltech101/101_ObjectCategories/car_side/image_0004.jpg
